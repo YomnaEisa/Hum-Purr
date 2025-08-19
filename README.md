@@ -47,7 +47,7 @@ Hum & Purr was born from this journey. 🐱🤍
 
 ## 🐱 About the Creator
 
-Built with love by **Yomna Eisa**, an AI Engineer & Data Scientist, passionate about using tech to solve real world problems!
+Built with love by **Yomna Eisa**, an iOS developer & AI Engineer, passionate about using tech to solve real world problems!
 
 ---
 
