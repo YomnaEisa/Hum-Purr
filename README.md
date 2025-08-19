@@ -55,6 +55,4 @@ Built with love by **Yomna Eisa**, an iOS developer & AI Engineer, passionate ab
 
 Hum & Purr was recognized as a **Distinguished Winner** in the **Apple Swift Student Challenge 2025**, honoring its innovation and impact in the wellness and education space.
 
----
-
-## _To Live is to Learn, and to Learn is to Grow.  _
+#### *To Live is to Learn, and to Learn is to Grow* 
