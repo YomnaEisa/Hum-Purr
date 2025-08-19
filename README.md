@@ -27,23 +27,9 @@ Hum & Purr was born from this journey. 🐱🤍
 
 ## ✨ Features
 
-- 🧠 **Education** – learn how your nervous system works and how to nurture it.
-- 🎵 **Guided Humming Exercises** – fun, simple activities like humming to calm the nervous system, hum away until the animation is complete!  
-- 🌍 **Accessibility First** – designed to make healing tools simple and approachable for everyone.  
-
----
-
-## 🚀 How It Works
-
-1. **Learn** about your nervous system and stress responses.  
-2. **Practice** guided hummiong exercises that engage the vagus nerve.  
-3. **Reflect & Grow** with your Hum & Purr companions cheering you on.  
-
----
-
-## 🎖 Recognition
-
-Hum & Purr was recognized as a **Distinguished Winner** in the **Apple Swift Student Challenge 2025**, honoring its innovation and impact in the wellness and education space.
+- **Education** – learn how your nervous system works and how to nurture it.
+- **Guided Humming Exercises** – fun, simple activities like humming to calm the nervous system, hum away until the animation is complete!  
+- **Accessibility First** – designed to make healing tools simple and approachable for everyone.  
 
 ---
 
@@ -62,6 +48,12 @@ Hum & Purr was recognized as a **Distinguished Winner** in the **Apple Swift Stu
 ## 🐱 About the Creator
 
 Built with love by **Yomna Eisa**, an AI Engineer & Data Scientist, passionate about using tech to solve real world problems!
+
+---
+
+## 🎖 Recognition
+
+Hum & Purr was recognized as a **Distinguished Winner** in the **Apple Swift Student Challenge 2025**, honoring its innovation and impact in the wellness and education space.
 
 ---
 
