@@ -57,4 +57,4 @@ Hum & Purr was recognized as a **Distinguished Winner** in the **Apple Swift Stu
 
 ---
 
-## To Live is to Learn, and to Learn is to Grow.  
+## _To Live is to Learn, and to Learn is to Grow.  _
